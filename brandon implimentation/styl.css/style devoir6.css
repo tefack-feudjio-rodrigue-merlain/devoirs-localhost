@@ -1,0 +1,17 @@
+/* css */
+{
+  width: 100%;
+  hieght: 100vh;
+  display:flex;
+  flex-direction: row;
+}
+contenu-1{
+  width:70%;
+  height: 100%;
+  background-color: rgb(107, 47, 89);
+}
+contenu-2{
+  width:30%;
+  height:100%;
+  background-color: #ffffff
+}

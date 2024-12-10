@@ -1,0 +1,17 @@
+
+ div#crcl_jaune{
+  position:absolute;
+  background: rgb(250,190,60);
+  border-radius:50%
+  width:200px;
+  height:200px;
+  top: 25%;
+  left:5%;
+  border:1px rgba(255,255,255,0,7)
+  solid;
+}
+div#txt_crcl_jaune{
+  position:absolute;
+  color:white;
+  text-align:center
+}
